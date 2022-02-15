@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+![welcome](https://github.com/carolgdb/carolgdb/issues/1#issue-1139051143)
 
 <!--
 **carolgdb/carolgdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
