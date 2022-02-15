@@ -1,4 +1,4 @@
-### 
+### Hi!
 
 ![welcome](https://github.com/carolgdb/carolgdb/issues/1#issue-1139051143)
 
