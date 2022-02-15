@@ -1,18 +1,46 @@
-### Hi!
+<span align="center">
 
-![welcome](https://github.com/carolgdb/carolgdb/issues/1#issue-1139051143)
+## Olá!
 
-<!--
-**carolgdb/carolgdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src=![Welcome](https://user-images.githubusercontent.com/81747869/154126880-eaa1421b-927b-4c9f-a73a-bede63936f85.gif)" width="700px" />
 
-Here are some ideas to get you started:
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Heey! So good to see you here. <br>I'm Carolina, the great <strong>problem solver</strong>! <br> 
+</p>
+
+<p align="center">
+  💼 Skills: 
+</p>
+
+<p align="center">
+  👩‍💻  Stack: <strong> Frontend JavaScript, HTML, CSS and React.</strong>
+</p>
+
+<p align="center">
+  🚀  Learning: <strong>JavaScript, React, Python.</strong>
+</p>
+
+<p align="center">
+  💌 Text me: ⤵️
+</p>
+
+<p align="center">
+  <a href="#" alt="Instagram">  <img src="#"/></a>
+  
+  <a href="#" alt="Linkedin">
+  <img src="#" /></a>
+</p>  
+
+## 💻 Technologies & Tools
+
+<p align="center">
+  
+ <img src="#" height="25"/>
+ 
+</p>
+
+
+
+
