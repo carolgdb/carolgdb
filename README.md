@@ -2,7 +2,7 @@
 
 ## Olá!
 
-<img src=![Welcome](https://user-images.githubusercontent.com/81747869/154126880-eaa1421b-927b-4c9f-a73a-bede63936f85.gif)" width="700px" />
+![Welcome](https://user-images.githubusercontent.com/81747869/154126880-eaa1421b-927b-4c9f-a73a-bede63936f85.gif)
 
 </span>
 
